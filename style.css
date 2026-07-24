@@ -1,3 +1,9 @@
+.lime {
+    background-color: #000000;
+    color: #00FF00;
+    font-family: Monospace, Arial ,Sans-serif;
+}
+
 body {
     background-image: url("https://images.pexels.com/photos/31083484/pexels-photo-31083484.jpeg");
     background-size: cover;
